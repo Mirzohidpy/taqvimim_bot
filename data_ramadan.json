@@ -1,0 +1,2368 @@
+{
+    "Toshkent": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:47",
+            "maghrib": "18:51"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:45",
+            "maghrib": "18:52"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:43",
+            "maghrib": "18:53"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:41",
+            "maghrib": "18:54"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:39",
+            "maghrib": "18:55"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:37",
+            "maghrib": "18:56"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:35",
+            "maghrib": "18:57"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:34",
+            "maghrib": "18:58"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:32",
+            "maghrib": "18:59"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:30",
+            "maghrib": "19:00"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:28",
+            "maghrib": "19:01"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:26",
+            "maghrib": "19:03"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:25",
+            "maghrib": "19:04"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:23",
+            "maghrib": "19:05"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:21",
+            "maghrib": "19:06"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:19",
+            "maghrib": "19:07"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:17",
+            "maghrib": "19:08"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:15",
+            "maghrib": "19:09"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:13",
+            "maghrib": "19:10"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:12",
+            "maghrib": "19:11"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:10",
+            "maghrib": "19:12"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:08",
+            "maghrib": "19:13"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:06",
+            "maghrib": "19:14"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:05",
+            "maghrib": "19:15"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:04",
+            "maghrib": "19:17"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:02",
+            "maghrib": "19:18"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "03:59",
+            "maghrib": "19:19"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "03:57",
+            "maghrib": "19:20"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "03:56",
+            "maghrib": "19:21"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:54",
+            "maghrib": "19:22"
+        }
+    },
+    "Andijon": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:36",
+            "maghrib": "18:39"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:34",
+            "maghrib": "18:40"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:32",
+            "maghrib": "18:41"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:30",
+            "maghrib": "18:42"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:28",
+            "maghrib": "18:43"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:26",
+            "maghrib": "18:44"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:24",
+            "maghrib": "18:45"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:23",
+            "maghrib": "18:46"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:21",
+            "maghrib": "18:46"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:19",
+            "maghrib": "18:47"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:17",
+            "maghrib": "18:48"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:15",
+            "maghrib": "18:50"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:14",
+            "maghrib": "18:51"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:12",
+            "maghrib": "18:52"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:10",
+            "maghrib": "18:53"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:08",
+            "maghrib": "18:54"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:06",
+            "maghrib": "18:55"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:04",
+            "maghrib": "18:56"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:02",
+            "maghrib": "18:57"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:01",
+            "maghrib": "18:58"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "03:59",
+            "maghrib": "18:59"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "03:57",
+            "maghrib": "19:00"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:55",
+            "maghrib": "19:01"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "03:54",
+            "maghrib": "19:02"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "03:53",
+            "maghrib": "19:04"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "03:51",
+            "maghrib": "19:05"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "03:48",
+            "maghrib": "19:06"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "03:46",
+            "maghrib": "19:07"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "03:46",
+            "maghrib": "19:08"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:44",
+            "maghrib": "19:09"
+        }
+    },
+    "Buxoro": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "05:09",
+            "maghrib": "19:10"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "05:07",
+            "maghrib": "19:11"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "05:05",
+            "maghrib": "19:12"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "05:03",
+            "maghrib": "19:13"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "05:01",
+            "maghrib": "19:14"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:59",
+            "maghrib": "19:15"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:57",
+            "maghrib": "19:16"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:56",
+            "maghrib": "19:17"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:55",
+            "maghrib": "19:17"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:53",
+            "maghrib": "19:18"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:51",
+            "maghrib": "19:19"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:49",
+            "maghrib": "19:21"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:48",
+            "maghrib": "19:22"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:46",
+            "maghrib": "19:23"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:44",
+            "maghrib": "19:24"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:42",
+            "maghrib": "19:25"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:40",
+            "maghrib": "19:26"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:38",
+            "maghrib": "19:27"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:38",
+            "maghrib": "19:27"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:37",
+            "maghrib": "19:28"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:35",
+            "maghrib": "19:29"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:33",
+            "maghrib": "19:30"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:31",
+            "maghrib": "19:31"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:30",
+            "maghrib": "19:32"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:29",
+            "maghrib": "19:34"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:27",
+            "maghrib": "19:35"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:24",
+            "maghrib": "19:36"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:22",
+            "maghrib": "19:37"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:21",
+            "maghrib": "19:37"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:19",
+            "maghrib": "19:38"
+        }
+    },
+    "Guliston": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:51",
+            "maghrib": "18:53"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:49",
+            "maghrib": "18:54"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:47",
+            "maghrib": "18:55"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:45",
+            "maghrib": "18:56"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:43",
+            "maghrib": "18:57"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:41",
+            "maghrib": "18:58"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:39",
+            "maghrib": "18:59"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:38",
+            "maghrib": "19:00"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:36",
+            "maghrib": "19:01"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:34",
+            "maghrib": "19:02"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:32",
+            "maghrib": "19:03"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:30",
+            "maghrib": "19:05"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:29",
+            "maghrib": "19:06"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:27",
+            "maghrib": "19:07"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:25",
+            "maghrib": "19:08"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:23",
+            "maghrib": "19:09"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:21",
+            "maghrib": "19:10"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:19",
+            "maghrib": "19:11"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:18",
+            "maghrib": "19:11"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:17",
+            "maghrib": "19:12"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:15",
+            "maghrib": "19:13"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:13",
+            "maghrib": "19:14"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:11",
+            "maghrib": "19:15"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:10",
+            "maghrib": "19:16"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:09",
+            "maghrib": "19:18"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:07",
+            "maghrib": "19:19"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:04",
+            "maghrib": "19:20"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:02",
+            "maghrib": "19:21"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:01",
+            "maghrib": "19:21"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:59",
+            "maghrib": "19:22"
+        }
+    },
+    "Samarqand": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:59",
+            "maghrib": "19:00"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:57",
+            "maghrib": "19:01"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:55",
+            "maghrib": "19:02"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:53",
+            "maghrib": "19:03"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:51",
+            "maghrib": "19:04"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:49",
+            "maghrib": "19:05"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:47",
+            "maghrib": "19:06"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:46",
+            "maghrib": "19:07"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:45",
+            "maghrib": "19:07"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:43",
+            "maghrib": "19:08"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:41",
+            "maghrib": "19:09"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:39",
+            "maghrib": "19:11"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:38",
+            "maghrib": "19:12"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:36",
+            "maghrib": "19:13"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:34",
+            "maghrib": "19:14"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:32",
+            "maghrib": "19:15"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:30",
+            "maghrib": "19:16"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:28",
+            "maghrib": "19:17"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:28",
+            "maghrib": "19:17"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:27",
+            "maghrib": "19:18"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:25",
+            "maghrib": "19:19"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:23",
+            "maghrib": "19:20"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:21",
+            "maghrib": "19:21"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:20",
+            "maghrib": "19:22"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:19",
+            "maghrib": "19:24"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:17",
+            "maghrib": "19:25"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:14",
+            "maghrib": "19:26"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:12",
+            "maghrib": "19:27"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:11",
+            "maghrib": "19:27"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:09",
+            "maghrib": "19:28"
+        }
+    },
+    "Namangan": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:38",
+            "maghrib": "18:42"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:36",
+            "maghrib": "18:43"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:34",
+            "maghrib": "18:44"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:32",
+            "maghrib": "18:45"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:30",
+            "maghrib": "18:46"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:28",
+            "maghrib": "18:47"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:26",
+            "maghrib": "18:48"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:25",
+            "maghrib": "18:49"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:23",
+            "maghrib": "18:49"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:21",
+            "maghrib": "18:50"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:19",
+            "maghrib": "18:51"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:17",
+            "maghrib": "18:53"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:16",
+            "maghrib": "18:54"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:14",
+            "maghrib": "18:55"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:12",
+            "maghrib": "18:56"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:10",
+            "maghrib": "18:57"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:08",
+            "maghrib": "18:58"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:06",
+            "maghrib": "18:59"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:04",
+            "maghrib": "19:00"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:03",
+            "maghrib": "19:01"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:01",
+            "maghrib": "19:02"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "03:59",
+            "maghrib": "19:03"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:57",
+            "maghrib": "19:04"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "03:56",
+            "maghrib": "19:05"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "03:55",
+            "maghrib": "19:07"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "03:53",
+            "maghrib": "19:08"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "03:50",
+            "maghrib": "19:09"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "03:48",
+            "maghrib": "19:10"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "03:47",
+            "maghrib": "19:11"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:45",
+            "maghrib": "19:12"
+        }
+    },
+    "Navoiy": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "05:05",
+            "maghrib": "19:07"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "05:03",
+            "maghrib": "19:08"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "05:01",
+            "maghrib": "19:09"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:59",
+            "maghrib": "19:10"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:57",
+            "maghrib": "19:11"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:55",
+            "maghrib": "19:12"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:53",
+            "maghrib": "19:13"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:52",
+            "maghrib": "19:14"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:51",
+            "maghrib": "19:14"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:49",
+            "maghrib": "19:15"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:47",
+            "maghrib": "19:16"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:45",
+            "maghrib": "19:18"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:44",
+            "maghrib": "19:19"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:42",
+            "maghrib": "19:20"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:40",
+            "maghrib": "19:21"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:38",
+            "maghrib": "19:22"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:36",
+            "maghrib": "19:23"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:34",
+            "maghrib": "19:24"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:33",
+            "maghrib": "19:24"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:32",
+            "maghrib": "19:25"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:30",
+            "maghrib": "19:26"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:28",
+            "maghrib": "19:27"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:26",
+            "maghrib": "19:28"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:25",
+            "maghrib": "19:29"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:24",
+            "maghrib": "19:31"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:22",
+            "maghrib": "19:32"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:19",
+            "maghrib": "19:33"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:17",
+            "maghrib": "19:34"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:16",
+            "maghrib": "19:34"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:14",
+            "maghrib": "19:35"
+        }
+    },
+    "Jizzax": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:55",
+            "maghrib": "18:57"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:53",
+            "maghrib": "18:58"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:51",
+            "maghrib": "18:59"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:49",
+            "maghrib": "19:00"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:47",
+            "maghrib": "19:01"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:45",
+            "maghrib": "19:02"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:43",
+            "maghrib": "19:03"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:42",
+            "maghrib": "19:04"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:41",
+            "maghrib": "19:04"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:39",
+            "maghrib": "19:05"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:37",
+            "maghrib": "19:06"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:35",
+            "maghrib": "19:08"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:34",
+            "maghrib": "19:09"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:32",
+            "maghrib": "19:10"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:30",
+            "maghrib": "19:11"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:28",
+            "maghrib": "19:12"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:26",
+            "maghrib": "19:13"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:24",
+            "maghrib": "19:14"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:23",
+            "maghrib": "19:14"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:22",
+            "maghrib": "19:15"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:20",
+            "maghrib": "19:16"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:18",
+            "maghrib": "19:17"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:16",
+            "maghrib": "19:18"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:15",
+            "maghrib": "19:19"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:14",
+            "maghrib": "19:21"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:12",
+            "maghrib": "19:22"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:09",
+            "maghrib": "19:23"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:07",
+            "maghrib": "19:24"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:06",
+            "maghrib": "19:24"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:04",
+            "maghrib": "19:25"
+        }
+    },
+    "Nukus": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "05:24",
+            "maghrib": "19:31"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "05:22",
+            "maghrib": "19:32"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "05:20",
+            "maghrib": "19:33"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "05:18",
+            "maghrib": "19:34"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "05:16",
+            "maghrib": "19:35"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "05:14",
+            "maghrib": "19:36"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "05:12",
+            "maghrib": "19:37"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "05:11",
+            "maghrib": "19:38"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "05:08",
+            "maghrib": "19:39"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "05:06",
+            "maghrib": "19:40"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "05:04",
+            "maghrib": "19:41"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "05:02",
+            "maghrib": "19:43"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "05:01",
+            "maghrib": "19:44"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:59",
+            "maghrib": "19:45"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:57",
+            "maghrib": "19:46"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:55",
+            "maghrib": "19:47"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:53",
+            "maghrib": "19:48"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:51",
+            "maghrib": "19:49"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:49",
+            "maghrib": "19:51"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:48",
+            "maghrib": "19:52"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:46",
+            "maghrib": "19:53"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:44",
+            "maghrib": "19:54"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:42",
+            "maghrib": "19:55"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:41",
+            "maghrib": "19:56"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:40",
+            "maghrib": "19:58"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:38",
+            "maghrib": "19:59"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:35",
+            "maghrib": "20:00"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:33",
+            "maghrib": "20:01"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:30",
+            "maghrib": "20:02"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:28",
+            "maghrib": "20:03"
+        }
+    },
+    "Qarshi": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "05:06",
+            "maghrib": "19:05"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "05:04",
+            "maghrib": "19:06"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "05:02",
+            "maghrib": "19:07"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "05:00",
+            "maghrib": "19:08"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:58",
+            "maghrib": "19:09"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:56",
+            "maghrib": "19:10"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:54",
+            "maghrib": "19:11"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:53",
+            "maghrib": "19:12"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:52",
+            "maghrib": "19:12"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:50",
+            "maghrib": "19:13"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:48",
+            "maghrib": "19:14"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:46",
+            "maghrib": "19:16"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:45",
+            "maghrib": "19:17"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:43",
+            "maghrib": "19:18"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:41",
+            "maghrib": "19:19"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:39",
+            "maghrib": "19:20"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:37",
+            "maghrib": "19:21"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:35",
+            "maghrib": "19:22"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:35",
+            "maghrib": "19:22"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:34",
+            "maghrib": "19:23"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:32",
+            "maghrib": "19:24"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:30",
+            "maghrib": "19:25"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:28",
+            "maghrib": "19:26"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:27",
+            "maghrib": "19:27"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:26",
+            "maghrib": "19:29"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:24",
+            "maghrib": "19:30"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:21",
+            "maghrib": "19:31"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:19",
+            "maghrib": "19:32"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:19",
+            "maghrib": "19:33"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:17",
+            "maghrib": "19:34"
+        }
+    },
+    "Qo'qon": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:42",
+            "maghrib": "18:44"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:40",
+            "maghrib": "18:45"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:38",
+            "maghrib": "18:46"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:36",
+            "maghrib": "18:47"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:34",
+            "maghrib": "18:48"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:32",
+            "maghrib": "18:49"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:30",
+            "maghrib": "18:50"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:29",
+            "maghrib": "18:51"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:27",
+            "maghrib": "18:52"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:25",
+            "maghrib": "18:53"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:23",
+            "maghrib": "18:54"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:21",
+            "maghrib": "18:56"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:20",
+            "maghrib": "18:57"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:18",
+            "maghrib": "18:58"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:16",
+            "maghrib": "18:59"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:14",
+            "maghrib": "19:00"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:12",
+            "maghrib": "19:01"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:10",
+            "maghrib": "19:02"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:09",
+            "maghrib": "19:02"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:08",
+            "maghrib": "19:03"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:06",
+            "maghrib": "19:04"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:04",
+            "maghrib": "19:05"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:02",
+            "maghrib": "19:06"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:01",
+            "maghrib": "19:07"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:00",
+            "maghrib": "19:09"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "03:58",
+            "maghrib": "19:10"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "03:55",
+            "maghrib": "19:11"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "03:53",
+            "maghrib": "19:12"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "03:52",
+            "maghrib": "19:13"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:50",
+            "maghrib": "19:14"
+        }
+    },
+    "Marg'ilon": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:39",
+            "maghrib": "18:41"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:37",
+            "maghrib": "18:42"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:35",
+            "maghrib": "18:43"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:33",
+            "maghrib": "18:44"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:31",
+            "maghrib": "18:45"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:29",
+            "maghrib": "18:46"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:27",
+            "maghrib": "18:47"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:26",
+            "maghrib": "18:48"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:25",
+            "maghrib": "18:48"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:23",
+            "maghrib": "18:49"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:21",
+            "maghrib": "18:50"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:19",
+            "maghrib": "18:52"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:18",
+            "maghrib": "18:53"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:16",
+            "maghrib": "18:54"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:14",
+            "maghrib": "18:55"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:12",
+            "maghrib": "18:56"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:10",
+            "maghrib": "18:57"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:08",
+            "maghrib": "18:58"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:06",
+            "maghrib": "18:59"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:05",
+            "maghrib": "19:00"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:03",
+            "maghrib": "19:01"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:01",
+            "maghrib": "19:02"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:59",
+            "maghrib": "19:03"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "03:58",
+            "maghrib": "19:04"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "03:57",
+            "maghrib": "19:06"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "03:55",
+            "maghrib": "19:07"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "03:52",
+            "maghrib": "19:08"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "03:50",
+            "maghrib": "19:09"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "03:49",
+            "maghrib": "19:09"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:48",
+            "maghrib": "19:10"
+        }
+    },
+    "Xiva": {
+        "1": {
+            "qamary_day": "2.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:39",
+            "maghrib": "18:41"
+        },
+        "2": {
+            "qamary_day": "3.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:37",
+            "maghrib": "18:42"
+        },
+        "3": {
+            "qamary_day": "4.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:35",
+            "maghrib": "18:43"
+        },
+        "4": {
+            "qamary_day": "5.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:33",
+            "maghrib": "18:44"
+        },
+        "5": {
+            "qamary_day": "6.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:31",
+            "maghrib": "18:45"
+        },
+        "6": {
+            "qamary_day": "7.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:29",
+            "maghrib": "18:46"
+        },
+        "7": {
+            "qamary_day": "8.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:27",
+            "maghrib": "18:47"
+        },
+        "8": {
+            "qamary_day": "9.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:26",
+            "maghrib": "18:48"
+        },
+        "9": {
+            "qamary_day": "10.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:25",
+            "maghrib": "18:48"
+        },
+        "10": {
+            "qamary_day": "11.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:23",
+            "maghrib": "18:49"
+        },
+        "11": {
+            "qamary_day": "12.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:21",
+            "maghrib": "18:50"
+        },
+        "12": {
+            "qamary_day": "13.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:19",
+            "maghrib": "18:52"
+        },
+        "13": {
+            "qamary_day": "14.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:18",
+            "maghrib": "18:53"
+        },
+        "14": {
+            "qamary_day": "15.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:16",
+            "maghrib": "18:54"
+        },
+        "15": {
+            "qamary_day": "16.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:14",
+            "maghrib": "18:55"
+        },
+        "16": {
+            "qamary_day": "17.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "04:12",
+            "maghrib": "18:56"
+        },
+        "17": {
+            "qamary_day": "18.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "04:10",
+            "maghrib": "18:57"
+        },
+        "18": {
+            "qamary_day": "19.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "04:08",
+            "maghrib": "18:58"
+        },
+        "19": {
+            "qamary_day": "20.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "04:06",
+            "maghrib": "18:59"
+        },
+        "20": {
+            "qamary_day": "21.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "04:05",
+            "maghrib": "19:00"
+        },
+        "21": {
+            "qamary_day": "22.04.2022",
+            "day_name": "Juma",
+            "fajr": "04:03",
+            "maghrib": "19:01"
+        },
+        "22": {
+            "qamary_day": "23.04.2022",
+            "day_name": "Shanba",
+            "fajr": "04:01",
+            "maghrib": "19:02"
+        },
+        "23": {
+            "qamary_day": "24.04.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:59",
+            "maghrib": "19:03"
+        },
+        "24": {
+            "qamary_day": "25.04.2022",
+            "day_name": "Dushanba",
+            "fajr": "03:58",
+            "maghrib": "19:04"
+        },
+        "25": {
+            "qamary_day": "26.04.2022",
+            "day_name": "Seshanba",
+            "fajr": "03:57",
+            "maghrib": "19:06"
+        },
+        "26": {
+            "qamary_day": "27.04.2022",
+            "day_name": "Chorshanba",
+            "fajr": "03:55",
+            "maghrib": "19:07"
+        },
+        "27": {
+            "qamary_day": "28.04.2022",
+            "day_name": "Payshanba",
+            "fajr": "03:52",
+            "maghrib": "19:08"
+        },
+        "28": {
+            "qamary_day": "29.04.2022",
+            "day_name": "Juma",
+            "fajr": "03:50",
+            "maghrib": "19:09"
+        },
+        "29": {
+            "qamary_day": "30.04.2022",
+            "day_name": "Shanba",
+            "fajr": "03:49",
+            "maghrib": "19:09"
+        },
+        "30": {
+            "qamary_day": "1.05.2022",
+            "day_name": "Yakshanba",
+            "fajr": "03:47",
+            "maghrib": "19:10"
+        }
+    }
+}
